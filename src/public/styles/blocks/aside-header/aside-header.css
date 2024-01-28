@@ -16,12 +16,14 @@
 @media screen and (max-width: 780px) and (min-width: 480px) {
   .aside-header {
     height: 55px;
+    min-height: 55px;
   }
 }
 
 @media screen and (max-width: 4000px) and (min-width: 780px) {
   .aside-header {
     height: 55px;
+    min-height: 55px;
   }
 }
 
