@@ -5,7 +5,7 @@
 @import url(blocks/aside-header/aside-header.css);
 @import url(blocks/aside-menu/aside-menu.css);
 @import url(blocks/section-btn/section-btn.css);
-@import url(blocks/bussines-card/__info/bussines-card__info.css);
+@import url(blocks/bussines-card/bussines-card__info.css);
 
 html {
   background-color: #808d85;
