@@ -1,0 +1,20 @@
+.bussines-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 240px;
+  height: 20%;
+  border: 1px solid antiquewhite;
+  border-radius: 20px;
+  font-family: "TT Lakes";
+  /* line-height: 10px; */
+}
+
+.bussines-card > div {
+  margin-bottom: 20px;
+}
+
+.bussines-card > span {
+  margin-bottom: 20px;
+}

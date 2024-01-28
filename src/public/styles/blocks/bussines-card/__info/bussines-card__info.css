@@ -1,0 +1,23 @@
+.bussines-card__info {
+  cursor: pointer;
+  color: antiquewhite;
+  cursor: pointer;
+  transition-duration: 0.2s;
+}
+
+.bussines-card__info:link {
+  text-decoration: none;
+}
+
+.bussines-card__info:visited {
+  text-decoration: none;
+}
+
+.bussines-card__info:hover {
+  color: rgba(88, 94, 90, 0.589);
+  mix-blend-mode: soft-light;
+}
+
+.bussines-card__info:focus {
+  color: rgba(88, 94, 90, 0.589);
+}

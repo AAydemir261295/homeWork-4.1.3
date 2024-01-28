@@ -1,0 +1,39 @@
+@import url(blocks//menu-btn/menu-btn.css);
+@import url(blocks/logo.css);
+@import url(blocks/side-bar/side-bar.css);
+@import url(blocks/bussines-card/bussines-card.css);
+@import url(blocks/aside-header/aside-header.css);
+@import url(blocks/aside-menu/aside-menu.css);
+@import url(blocks/section-btn/section-btn.css);
+@import url(blocks/bussines-card/__info/bussines-card__info.css);
+
+
+
+html {
+  background-color: #808d85;
+  color: #faebd7;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height: 1024px;
+}
+
+main {
+  height: 100%;
+}
+
+@font-face {
+  font-family: "TT Lakes";
+  src: url("TTLakesCondensed-DemiBold.eot");
+  src: local("TT Lakes Condensed DemiBold"), local("TTLakesCondensed-DemiBold"),
+    url("fonts/TTLakesCondensed-DemiBold.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/TTLakesCondensed-DemiBold.woff") format("woff"),
+    url("fonts/TTLakesCondensed-DemiBold.ttf") format("truetype");
+  font-weight: bolder;
+  font-style: normal;
+  font-display: optional;
+}
