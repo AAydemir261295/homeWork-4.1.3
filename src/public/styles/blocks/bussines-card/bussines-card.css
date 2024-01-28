@@ -8,13 +8,12 @@
   border: 1px solid antiquewhite;
   border-radius: 20px;
   font-family: "TT Lakes";
-  /* line-height: 10px; */
 }
 
-.bussines-card > div {
-  margin-bottom: 20px;
+.bussines-card :first-child {
+  margin-bottom: 10px;
 }
 
-.bussines-card > span {
-  margin-bottom: 20px;
+.bussines-card :nth-child(2){
+  margin-bottom: 15px;
 }
