@@ -1,25 +1,25 @@
 .bussines-card__info {
-  color: antiquewhite !important;
-  cursor: pointer !important;
-  transition-duration: 0.2s !important;
-  /* -webkit-appearance: none; */
+  cursor: pointer;
+  color: antiquewhite;
+  cursor: pointer;
+  transition-duration: 0.2s;
 }
 
 .bussines-card__info:link {
-  text-decoration: none !important;
-  color: inherit !important;
+  text-decoration: none;
+  color: inherit;
 }
 
 .bussines-card__info:visited {
-  text-decoration: none !important;
-  color: inherit !important;
+  text-decoration: none;
+  color: inherit;
 }
 
 .bussines-card__info:hover {
-  color: rgba(88, 94, 90, 0.589) !important;
-  mix-blend-mode: soft-light !important;
+  color: rgba(88, 94, 90, 0.589);
+  mix-blend-mode: soft-light;
 }
 
 .bussines-card__info:focus {
-  color: rgba(88, 94, 90, 0.589) !important;
+  color: rgba(88, 94, 90, 0.589);
 }
