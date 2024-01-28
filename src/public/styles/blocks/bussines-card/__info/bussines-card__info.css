@@ -3,14 +3,17 @@
   color: antiquewhite;
   cursor: pointer;
   transition-duration: 0.2s;
+  -webkit-appearance: none;
 }
 
 .bussines-card__info:link {
   text-decoration: none;
+  color: inherit;
 }
 
 .bussines-card__info:visited {
   text-decoration: none;
+  color: inherit;
 }
 
 .bussines-card__info:hover {

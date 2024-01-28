@@ -5,6 +5,7 @@
   align-items: center;
   width: 240px;
   height: 20%;
+  min-height: 200px;
   border: 1px solid antiquewhite;
   border-radius: 20px;
   font-family: "TT Lakes";
@@ -14,6 +15,6 @@
   margin-bottom: 10px;
 }
 
-.bussines-card :nth-child(2){
+.bussines-card :nth-child(2) {
   margin-bottom: 15px;
 }
