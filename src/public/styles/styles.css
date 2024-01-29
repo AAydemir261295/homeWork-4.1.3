@@ -25,7 +25,6 @@ main {
 
 @font-face {
   font-family: "TT Lakes";
-  src: url("TTLakesCondensed-DemiBold.eot");
   src: local("TT Lakes Condensed DemiBold"), local("TTLakesCondensed-DemiBold"),
     url("fonts/TTLakesCondensed-DemiBold.eot?#iefix")
       format("embedded-opentype"),
