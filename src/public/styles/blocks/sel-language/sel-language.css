@@ -1,0 +1,13 @@
+.sel-language {
+  color: rgba(88, 94, 90, 0.589);
+  mix-blend-mode: soft-light;
+}
+
+.sel-language--selected {
+  mix-blend-mode: soft-light;
+  color: antiquewhite;
+}
+
+.sel-language:hover {
+  color: antiquewhite;
+}

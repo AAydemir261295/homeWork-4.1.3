@@ -6,6 +6,7 @@
 @import url(blocks/aside-menu/aside-menu.css);
 @import url(blocks/section-btn/section-btn.css);
 @import url(blocks/bussines-card-info/bussines-card-info.css);
+@import url(blocks/sel-language/sel-language.css);
 
 html {
   background-color: #808d85;
