@@ -15,3 +15,8 @@
   overflow-x: hidden;
   overflow-y: auto;
 }
+
+.aside-menu__btn {
+  margin-top: 3px;
+  margin-left: 5%;
+}

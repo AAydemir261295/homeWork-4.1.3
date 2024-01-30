@@ -1,25 +1,25 @@
-.bussines-card__info {
+.bussines-card-info {
   cursor: pointer;
   color: antiquewhite;
   cursor: pointer;
   transition-duration: 0.2s;
 }
 
-.bussines-card__info:link {
+.bussines-card-info:link {
   text-decoration: none;
   color: inherit;
 }
 
-.bussines-card__info:visited {
+.bussines-card-info:visited {
   text-decoration: none;
   color: inherit;
 }
 
-.bussines-card__info:hover {
+.bussines-card-info:hover {
   color: rgba(88, 94, 90, 0.589);
   mix-blend-mode: soft-light;
 }
 
-.bussines-card__info:focus {
+.bussines-card-info:focus {
   color: rgba(88, 94, 90, 0.589);
 }

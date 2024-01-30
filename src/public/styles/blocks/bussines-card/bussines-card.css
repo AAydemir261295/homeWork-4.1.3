@@ -11,10 +11,15 @@
   font-family: "TT Lakes";
 }
 
-.bussines-card :first-child {
+.bussines-card__btn {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.bussines-card .bussines-card__btns-container {
   margin-bottom: 10px;
 }
 
-.bussines-card :nth-child(2) {
+.bussines-card .bussines-card__mail-info {
   margin-bottom: 15px;
 }
